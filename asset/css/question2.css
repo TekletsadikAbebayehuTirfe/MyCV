@@ -1,0 +1,35 @@
+table {
+    margin: 5px auto;
+  }
+td
+{
+    width: 100px;
+    height: 100px;
+}
+.firowsectd
+{
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+.secrowfirtd
+{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;  
+}
+.secrowsectd
+{
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.secrowthtd
+{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.throwsectd
+{
+    border-right: 2px solid black;
+    border-left: 2px solid black;  
+}
