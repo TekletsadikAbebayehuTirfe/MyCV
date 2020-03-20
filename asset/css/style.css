@@ -1,40 +1,16 @@
 /* Element selector */
 body{
     
-    margin: 10px;
+    margin: 10px auto;
+    background-color:lightcyan;
 }
 header
 {
-    background-color: rgba(119, 90,90, 0.6);
+    background-color: lightskyblue;
     position: fixed;
     width: 100%;
     
 
-}
-section
-{
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 5px 30px;
-    
-    
-    
-}
-article
-{
-    font-size: 15px;
-    line-height: 25px;
-    text-align: justify;
-}
-.title
-{
-    font-size: 23px;
-    font-weight: bold;
-}
-.date
-{
-    font-size: 15px;
-    font-style: italic;
-    text-transform: uppercase;
 }
 /* Link style */
 nav > ul > li{
@@ -46,22 +22,101 @@ nav > ul > li{
 nav > ul > li > a{
     text-decoration: none;
 }
-#top
-{
-    margin-top: 700px;
-}
-img
-{
-    width: 30%;
-    height: 50%;
-    margin:30px 20px;
-    
- 
-}
-h3
-{
+.footer{
+
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 50px;
-    
 }
+.footer > p{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+/* Contact */
+
+.about{
+
+    flex: 4;
+    margin: 50px 50px;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+
+   
+    display: flex;
+    padding: 50px;
+    margin: 30px 30px;
+    border-bottom: 2px solid black;
+}
+
+
+.contactContainer{
+
+   
+    display: flex;
+    padding: 25px;
+    margin: 100px 100px;
+    border-bottom: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.profile > img{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    flex: 1;
+   
+}
+
+.contactContainer > .form> #head{
+
+    font-weight: normal;
+    font-size: 1.5em;
+}
+
+
+#map{
+
+    height: 500px;
+    width: 400px;
+    border-radius: 10%;
+}
+
+.input{
+
+    height: 25px;
+    width: 300px;
+    border-radius: 6%;
+}
+
+#combobox{
+
+    height: 25px;
+    width: 70px;
+}
+
+#textarea{
+
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 3%;
+}
+
+#button{
+
+    border-radius: 10%;
+    width: 100px;
+    height: 30px;
+    font-weight: normal;
+    font-size: 0.9em;
+    background-color: cornsilk;
+    position: relative;
+}
+
+.map{
+
+    margin-left: 100px;
+}
+
