@@ -1,0 +1,283 @@
+body
+{
+    background-color: grey;
+}
+.container
+{
+    margin: 100px 200px;
+}
+.Horizontal
+{
+    display: inline;
+}
+.countries
+{
+    float: left;
+}
+#ethiofirst
+{
+    height: 75px;
+    width: 220px;
+    background-color: green;
+}
+#ethiosecond
+{
+    height: 75px;
+    width: 220px;
+    background-color: yellow;
+}
+#ethiothird
+{
+    height: 75px;
+    width: 220px;
+    background-color:red;
+}
+#bulfirst
+{
+    
+    height: 75px;
+    width: 220px;
+    background-color:yellow;  
+}
+#bulsecond
+{
+ 
+    height: 75px;
+    width: 220px;
+    background-color:blue;  
+}
+#bulthird
+{
+    height: 75px;
+    width: 220px;
+    background-color:red;  
+}
+#bolfirst
+{
+    
+    height: 75px;
+    width: 220px;
+    background-color:red;  
+}
+#bolsecond
+{
+ 
+    height: 75px;
+    width: 220px;
+    background-color:yellow;  
+}
+#bolthird
+{
+    height: 75px;
+    width: 220px;
+    background-color:green;  
+}
+#estfirst
+{
+    
+    height: 75px;
+    width: 220px;
+    background-color:lightblue;  
+}
+#estsecond
+{
+ 
+    height: 75px;
+    width: 220px;
+    background-color:black;  
+}
+#estthird
+{
+    height: 75px;
+    width: 220px;
+    background-color:white;  
+}
+#costfirst
+{
+    height: 30px;
+    width: 220px;
+    background-color:#002B7F;  
+}
+#costsecond
+{
+    
+    height: 30px;
+    width: 220px;
+    background-color:#FFF;  
+}
+#costthird
+{
+ 
+    height: 48px;
+    width: 220px;
+    background-color:#CE1126;  
+}
+#costtfourth
+{
+    height: 30px;
+    width: 220px;
+    background-color:white;  
+}
+#costfifth
+{
+    height: 30px;
+    width: 220px;
+    background-color:#002B7F;  
+}
+
+#botsfirst
+{
+    height: 30px;
+    width: 220px;
+    background-color:#6CACE4;  
+}
+#botssecond
+{
+    
+    height: 30px;
+    width: 220px;
+    background-color:#FFF;  
+}
+#botsthird
+{
+ 
+    height: 48px;
+    width: 220px;
+    background-color:black;  
+}
+#botstfourth
+{
+    height: 30px;
+    width: 220px;
+    background-color:white;  
+}
+#botsfifth
+{
+    height: 30px;
+    width: 220px;
+    background-color:#6CACE4;  
+}
+#rusfirst
+{
+    
+    height: 46px;
+    width: 220px;
+    background-color:black;  
+}
+#russecond
+{
+ 
+    height: 46px;
+    width: 220px;
+    background-color:#FF0000;  
+}
+#rusthird
+{
+    height: 46px;
+    width: 220px;
+    background-color:yellow;  
+}
+#gerfirst
+{
+    
+    height: 46px;
+    width: 220px;
+    background-color:white;  
+}
+#gersecond
+{
+ 
+    height: 46px;
+    width: 220px;
+    background-color:blue;  
+}
+#gerthird
+{
+    height: 46px;
+    width: 220px;
+    background-color:red;  
+}
+#ivofirst
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#F77F00;  
+}
+#ivosecond
+{
+float: left;
+    height: 140px;
+    width: 74px;
+    background-color:#FFF;  
+}
+#ivothird
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#009E60;  
+} 
+#frafirst
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#002395;  
+}
+#frasecond
+{
+float: left;
+    height: 140px;
+    width: 74px;
+    background-color:white;  
+}
+#frathird
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#ED2939;  
+}
+#guifirst
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#CE1126;  
+}
+#guisecond
+{
+float: left;
+    height: 140px;
+    width: 74px;
+    background-color:#FCD116;  
+}
+#guithird
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#009460;  
+}
+#itafirst
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#009246;  
+}
+#itasecond
+{
+float: left;
+    height: 140px;
+    width: 74px;
+    background-color:white;  
+}
+#itathird
+{
+    float: left;
+    height: 140px;
+    width: 73px;
+    background-color:#CE2B37;  
+}
