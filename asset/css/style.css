@@ -217,6 +217,26 @@ nav > ul > li > a{
     margin: 30px;
     
 }
+/* My work */
+
+.mainbody
+{
+
+    margin: 100px 100px;    
+    border-bottom: 2px solid black;
+}
+
+.mainbody > .questionlinks > a{
+
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;   
+    color:lightseagreen;
+    text-decoration: none;
+    
+}
+
 
 
 
