@@ -188,31 +188,25 @@ nav > ul > li > a{
     font-weight: bold;
 }
 
-/* Index */
-#galleryheader{
+/* Gallery */
+#Gheader{
 
     position: relative;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 2em;
-    margin-top: 1%;
+    margin-top: 5%;
     margin-right: 100px;
     margin-left: 100px;
 
     text-transform: capitalize;
-    border-bottom: 2px solid black;
+    border-bottom: 3px solid black;
 }
+.display{
 
-.gallery{
-    margin: 50px 220px;
+    margin: 50px 70px;
     border-bottom: 3px solid black;
   
-}
-
-.row > img{
-    
-    height: 600px;
-    width: 400px;
 }
 
 
