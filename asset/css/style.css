@@ -198,8 +198,7 @@ nav > ul > li > a{
     margin-top: 5%;
     margin-right: 100px;
     margin-left: 100px;
-
-    text-transform: capitalize;
+    text-transform: uppercase;
     border-bottom: 3px solid black;
 }
 .display{
