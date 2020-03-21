@@ -207,7 +207,16 @@ nav > ul > li > a{
     border-bottom: 3px solid black;
   
 }
+/* Blog */
 
+#container{
+
+    display: flex;
+    border-bottom: 2px solid black;
+    margin-left: auto;
+    margin: 30px;
+    
+}
 
 
 
